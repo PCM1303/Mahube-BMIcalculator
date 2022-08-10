@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600099187 source:c:\users\21849633\my programs\bmicalculator\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<cmath>
+
