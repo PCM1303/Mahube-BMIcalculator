@@ -1,5 +1,7 @@
 # Mahube-BMIcalculator
 
+##<h2> Development
+
 This program was developed by Chris Mahube using
 C++
 
