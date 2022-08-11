@@ -1,6 +1,6 @@
 # Mahube-BMIcalculator
 
-##<h2> Development
+##<h2> Production
 
 This program was developed by Chris Mahube using
 C++
